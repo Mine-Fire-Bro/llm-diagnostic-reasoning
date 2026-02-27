@@ -1,5 +1,8 @@
 # 🔥 LLM Diagnostic Reasoning
 
+> **🤖 ⚡ 专为 Claude Code 设计的智能诊断推理 Skill**
+> 只需一行命令 `/diagnose`，让 Claude 像专家一样进行诊断推理！
+
 <div align="center">
 
 ## ⚡ Claude Code 专属诊断推理 Skill
